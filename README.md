@@ -1,4 +1,4 @@
 # The Gems Tution
-Tuition Website v0.1 - thegemstution@gmail.com
+Tuition Website v0.1 - https://thegemstuition.com/
 <br />
-https://www.thegemstuition.com
+Email: - thegemstution@gmail.com
