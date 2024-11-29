@@ -41,7 +41,7 @@ a:hover {
 
 .btn-primary {
   padding: 8px 20px;
-  background: #1BBD36;
+  background: #0992A5;
   color: #fff;
   border-radius: 4px;
   border:none;
@@ -53,7 +53,7 @@ a:hover {
 }
 
 .text-center p {
-	margin-bottom:50px;
+	margin-bottom:25px;
 	color:#333;
 }
 
@@ -68,13 +68,13 @@ a:hover {
 }
 
 #breadcrumb {
-	background-color: #1BBD36;
+	background-color: #0992A5;
 	margin-top: -20px;
 }
 
 .breadcrumb { 
   list-style: none;
-  background-color: #1BBD36;
+  background-color: #0992A5;
   border-radius: 0px;
   padding:3px 10px;
 }
@@ -103,7 +103,7 @@ a:hover {
 	font-weight:900;
 }
 .navbar-brand h1 span {
-	color: #1BBD36;
+	color: #0992A5;
 }
 
 .menu {
@@ -131,7 +131,7 @@ a:hover {
 }
 
 .nav-tabs > li > a:hover {	
-	color: #1BBD36;
+	color: #0992A5;
 	border-color: #fff #fff #fff;
 	border-radius:0;
 	background-color:#fff; 
@@ -141,7 +141,7 @@ a:hover {
 	-o-transition: all 0.3s ease-in-out;
 }
 .nav-tabs > li > a.active {
-	color: #1BBD36;
+	color: #0992A5;
 	border-radius:0;
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -167,7 +167,7 @@ a:hover {
 }
 
 #main-slider .carousel .carousel-content {
-  margin-top: 120px;
+  margin-top: 70px;
 }
 
 #main-slider .carousel .slide-margin{
@@ -219,7 +219,7 @@ a:hover {
   position: absolute;
   width: 100%;
   display: block !important;
-  height: 530px;
+  height: 430px;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
   -o-transition: opacity ease-in-out 500ms;
@@ -278,11 +278,11 @@ a:hover {
 
 .text-center i {
 	font-size:40px;
-	margin-top:70px;
-	margin-bottom:30px;
+	margin-top:40px;
+	margin-bottom:0px;
 	color:#fff;
-	padding:50px;
-	background:#1BBD36;
+	padding:30px;
+	background:#0992A5;
 	border-radius:50%;
 }
 
@@ -291,12 +291,12 @@ a:hover {
 	margin-bottom:20px;
 	text-transform:uppercase;
 	font-size:18px;
-	color: #1BBD36;
+	color: #0992A5;
 }
 
 .hi-icon-effect i.fa:hover {
 	background:#fff;
-	color: #1BBD36;
+	color: #0992A5;
 	-webkit-transition: color 300ms, background-color 300ms;
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
@@ -310,8 +310,7 @@ a:hover {
 
 #partner {
   color: #fff;
-  text-align: center;
-  padding:100px;
+  padding:40px;
 }
 
 #partner h2 {
@@ -323,7 +322,6 @@ a:hover {
 #partner p {
   color: #fff;
   font-size:20px;
-  
 }
 
 .partners ul {
@@ -343,8 +341,8 @@ a:hover {
 }
 
 #conatcat-info{
-  background: #fff url(../images/contact.png) no-repeat 90% 0;
-  padding: 30px 0;
+  background: #fff url(../images/slider/contact.png) no-repeat 90% 0;
+  padding: 15px 0;
 }
 
 .contact-info i{
@@ -369,7 +367,7 @@ a:hover {
 
 /* --- about us --- */
 .aboutus {
-	padding:50px;
+	padding:25px;
 }
 
 .aboutus img {
@@ -493,7 +491,8 @@ a:hover {
 }
 
 .our-team {
-	padding:50px;
+	padding-top:30px;
+	padding-bottom:10px;
 	background:#ddd;
 }
 
@@ -510,7 +509,6 @@ a:hover {
 
 .our-team img{
 	border-radius:6px;
-	margin-top:30px;
 }
 
 .lates {
@@ -530,7 +528,7 @@ a:hover {
 
 /* --- footer --- */
 .footer {
-	background:#1BBD36;
+	background:#0992A5;
 	padding:15px 22px;
 }
 
@@ -632,29 +630,23 @@ ul.social-network li a {
 }
 
 .media i {
-	color:#1BBD36;
+	color:#0992A5;
 	font-size:50px;
 }
 
 .media h4 {
 	font-size:20px;
 	font-weight:600;
-	color:#1BBD36;
+	color:#0992A5;
 }
 
 /* --- portfolio --- */
 
-#portfolio .center p {
-	margin-top:50px;
-	margin-bottom:50px;
-	font-size:18px;
-}
-
 .portfolio-items, 
 .portfolio-filter {
   list-style: none outside none;
-  margin: 0 0 40px 0;
   padding: 0;
+  margin-top:20px;
 }
 
 .portfolio-filter > li {
@@ -679,8 +671,8 @@ ul.social-network li a {
 .portfolio-filter > li a:hover,
 .portfolio-filter > li a.active{
   color:#fff;
-  background: #1BBD36;
-  border: 1px solid #1BBD36;
+  background: #0992A5;
+  border: 1px solid #0992A5;
   box-shadow: none;
   -webkit-box-shadow: none;
 }
@@ -703,7 +695,7 @@ ul.social-network li a {
 }
 
 .overlay a:hover {
-	color: #1BBD36;
+	color: #0992A5;
 }
 
 /* Start: Recommended Isotope styles */
@@ -792,22 +784,16 @@ ul.social-network li a {
 
 a.btn-primary:hover {
 	background-color:#ddd;
-	color:#1BBD36;
+	color:#0992A5;
 }
 
 .widget {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   padding-left: 0;
 }
 
 .single_comments {
-  margin-bottom: 20px;
-}
-
-.single_comments img {
-  float: left;
-  margin-right: 10px;
-  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 .single_comments p {
@@ -821,13 +807,14 @@ a.btn-primary:hover {
 }
 
 .widget .entry-meta span a:hover {
-	color:#1BBD36;
+	color:#0992A5;
 }
 
 .widget h3 {
   color: #000;
   text-transform: uppercase;
   margin-bottom: 20px;
+  margin-top: -5px;
 }
 
 .blog_category{
@@ -850,12 +837,12 @@ a.btn-primary:hover {
 }
 
 .blog_category li a:hover{
-  background:#1BBD36;
+  background:#0992A5;
   color: #fff;
 }
 
  .badge:before {
-  border-color: transparent transparent transparent #1BBD36;
+  border-color: transparent transparent transparent #0992A5;
   border-style: solid;
   border-width: 10px;
   bottom: -8px;
@@ -867,7 +854,7 @@ a.btn-primary:hover {
 }
 
 .badge {
-  background-color: #1BBD36;
+  background-color: #0992A5;
   border-radius: 5px;
   color: #fff;
   padding: 8px;
@@ -889,7 +876,7 @@ a.btn-primary:hover {
 }
 
 ul.blog_archieve li a:hover{
-	color:#1BBD36;
+	color:#0992A5;
 }
 
 .blog_archieve li:first-child {
@@ -969,7 +956,7 @@ ul.faq li > div h3 {
 
 .blog .blog-item .img-blog {
   border-radius: 5px;
-  margin-bottom: 45px;
+  margin-bottom: 20px;
 }
 
 .blog .blog-item .blog-content {
@@ -986,7 +973,7 @@ ul.faq li > div h3 {
 }
 
 .blog .blog-item .blog-content h4 {
-	margin-bottom: 40px;
+	margin-bottom: 10px;
 	font-weight: 600
  }
 
@@ -1010,7 +997,7 @@ ul.faq li > div h3 {
 }
 
 #publish_date {
-  background: #1BBD36;
+  background: #0992A5;
   border-bottom: 5px solid #4e4e4e;
   color: #fff;
   padding: 5px 0;
@@ -1034,7 +1021,7 @@ ul.pagination > li > a {
   border-radius: 5px;
   font-size: 16px;
   padding: 5px 14px;
-  color:#1BBD36;
+  color:#0992A5;
 }
 
 ul.pagination > li > a i{
@@ -1044,8 +1031,8 @@ ul.pagination > li > a i{
 
 ul.pagination > li.active > a, 
 ul.pagination > li:hover > a {
-  background-color: #1BBD36 !important;
-  border-color: #1BBD36 !important;
+  background-color: #0992A5 !important;
+  border-color: #0992A5 !important;
   color: #fff;
 }
 
@@ -1085,7 +1072,7 @@ ul.sidebar-gallery {
 }
 
 .tag-cloud li a:hover{
-  background:#1BBD36;
+  background:#0992A5;
   color: #fff;  
 }
 
@@ -1139,7 +1126,7 @@ textarea#message{
 }
 
 .btn-lg:hover {
-	color:#1BBD36;
+	color:#0992A5;
 	background:#ddd;
 }
 
@@ -1161,5 +1148,5 @@ a.scrollup{
 a.scrollup:hover{
 	opacity:1;
 	background-color:#ddd;
-	color:#1BBD36;
+	color:#0992A5;
 }
