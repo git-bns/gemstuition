@@ -1,2 +1,2 @@
-# gemstuition
-The Gems Tution
+# The Gems Tution
+Tuition Website v0.1
